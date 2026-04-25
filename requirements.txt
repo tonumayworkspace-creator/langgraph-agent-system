@@ -1,7 +1,4 @@
 fastapi
 uvicorn
-langchain
-langchain-community
 langgraph
-faiss-cpu
 pydantic

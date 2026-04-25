@@ -118,7 +118,12 @@ POST /run-agent
 | Deployment    | Docker / AWS Ready |
 
 ---
+---
+## 🏗️ Architecture Diagram
 
+![Architecture](assets/architecture.png)
+---
+---
 ## 📁 Project Structure
 
 ```
